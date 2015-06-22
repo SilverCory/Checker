@@ -1,0 +1,16 @@
+{
+  "name": "ryred_co/checker",
+  "description": "Check the fuckng cheeky buggers!",
+  "minimum-stability": "dev",
+  "license": "All rights reserved",
+  "authors": [
+    {
+      "name": "Cory Redmond",
+      "email": "ace@ac3-servers.eu"
+    }
+  ],
+  "require": {
+    "phpfastcache/phpfastcache": "3.0.5",
+    "phpmailer/phpmailer": "v5.2.10"
+  }
+}
